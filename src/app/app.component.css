@@ -1,0 +1,14 @@
+.sidebar
+{
+float:left;
+background-color:#dfcd87;
+margin-top:50px;
+font-family:cursive;
+font-style: italic;
+/*width:15%;*/
+height:800px;
+}
+.mt400
+{
+    margin-top:400px
+}
